@@ -1,0 +1,17 @@
+/* App Description */
+"app_description" = "Manage settings and subscriptions for your Sandbox app.";
+
+/* Sandbox Settings */
+"settings_sandbox" = "Sandbox Settings";
+
+/* Subscriptions Header */
+"subscriptions_header" = "Subscriptions";
+
+/* Subscriptions Footer */
+"subscriptions_footer" = "Manage your subscriptions within Sandbox or open the App Store.";
+
+/* Manage Sandbox Subscriptions */
+"manage_sandbox_subscriptions" = "Manage Sandbox Subscriptions";
+
+/* Manage App Store Subscriptions */
+"manage_appstore_subscriptions" = "Manage App Store Subscriptions";

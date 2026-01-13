@@ -1,0 +1,17 @@
+/* App Description */
+"app_description" = "Quản lý các cài đặt và đăng ký cho ứng dụng Sandbox của bạn.";
+
+/* Sandbox Settings */
+"settings_sandbox" = "Cài đặt Sandbox";
+
+/* Subscriptions Header */
+"subscriptions_header" = "Đăng ký";
+
+/* Subscriptions Footer */
+"subscriptions_footer" = "Quản lý các gói đăng ký của bạn trong Sandbox hoặc mở App Store.";
+
+/* Manage Sandbox Subscriptions */
+"manage_sandbox_subscriptions" = "Quản lý đăng ký Sandbox";
+
+/* Manage App Store Subscriptions */
+"manage_appstore_subscriptions" = "Quản lý đăng ký App Store";
