@@ -94,6 +94,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+## TestFlight
+• https://testflight.apple.com/join/dtVEGgg5
+
+  
 ## 👨‍💻 Author
 
 **ctdoteam**
