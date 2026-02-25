@@ -95,7 +95,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## TestFlight
-• SANDBOX [CTDO]
+• SANDBOX [CTDO](https://testflight.apple.com/join/QCrAsw2Y)
   
 ## 👨‍💻 Author
 
